@@ -1,3 +1,4 @@
+### Shaik Abbu Sofiyan
 👋 Hi, I'm Shaik Abbu Sofiyan
 
 🚀 Data Scientist | MERN Stack Developer | Kaggler | Competitive Programmer
@@ -39,6 +40,7 @@ Kaggle Competitions 🏆
 DSA & Competitive Programming 💻
 
 📊 GitHub Stats
+https://github-readme-stats.vercel.app/api?username=sofiyan123&show_icons=true&theme=radical
 
 
 
@@ -62,12 +64,10 @@ DSA & Competitive Programming 💻
 
 🌐 Connect With Me
 
-💼 LinkedIn
+💼 LinkedIn - www.linkedin.com/in/shaik-abbu-sofiyan-1427a128b
 
-🏅 Kaggle
+🏅 Kaggle - https://www.kaggle.com/sofiyanshaik
 
-🐦 Twitter
-
-🌍 Portfolio Website
+🌍 Portfolio Website - I don't have yet
 
 ✨ “Code. Compete. Create. Repeat.”
