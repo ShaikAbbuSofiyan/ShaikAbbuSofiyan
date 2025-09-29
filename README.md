@@ -41,7 +41,8 @@ DSA & Competitive Programming 💻
 
 📊 GitHub Stats
 
-![GitHub Stats]https://github-readme-stats.vercel.app/api?username=ShaikAbbuSofiyan&show_icons=true&theme=radical
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShaikAbbuSofiyan&show_icons=true&theme=radical)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikAbbuSofiyan&layout=compact&theme=radical)
 
