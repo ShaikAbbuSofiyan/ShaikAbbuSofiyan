@@ -1,5 +1,4 @@
-![Header](https://github.com/user-attachments/assets/81db8d9c-83db-4599-bccc-4d37bf054d4a)
-.com/banner.png)
+![GitHub Banner](https://github.com/user-attachments/assets/b9173b54-1aaa-49b0-a25c-ccf4d3fdfd7e)
 
 ### Shaik Abbu Sofiyan
 👋 Hi, I'm Shaik Abbu Sofiyan
